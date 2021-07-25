@@ -1,0 +1,8 @@
+{
+	"posts": [
+		{ "id": 1, "title": "Hello world", "text": "This is the best approach" },
+		{ "id": 2, "title": "Hello Java", "text": "This is the best approach" },
+		{ "id": 3, "title": "Hello Main", "text": "This is the best approach" },
+		{ "id": 4, "title": "Hello Console", "text": "This is the best approach" }
+	]
+}
